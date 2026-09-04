@@ -2,7 +2,7 @@
 
 An end-to-end sales analysis of a full year of pizza orders (2015), built entirely in **Excel** using **Power Query**, **Power Pivot / DAX**, dynamic array formulas, and an interactive one-page **dashboard**.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](assets/dashboard_preview.png.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ The raw data comes as **4 relational CSV files** (included in this repo under `/
 
 These four tables are relational — `order_details` is the fact table that connects to `orders` (by `order_id`) and to `pizzas` (by `pizza_id`), which in turn connects to `pizza_types` (by `pizza_type_id`). A custom `Date` table was also built to support clean time-intelligence analysis.
 
-![Data Model](assets/data_model.png)
+![Data Model](assets/data_model.png.jpg)
 
 ---
 
