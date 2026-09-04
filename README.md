@@ -125,15 +125,8 @@ Additional insights surfaced through the pivot tables:
 ```
 ├── pizza_sales_finished.xlsx     # Final workbook — cleaned data, model, dashboard
 ├── README.md
-├── assets/
-│   ├── dashboard_preview.png     # Dashboard screenshot
-│   └── data_model.png            # Data model relationship diagram
-└── data/
-    └── raw/
-        ├── orders.csv
-        ├── order_details.csv
-        ├── pizzas.csv
-        └── pizza_types.csv
+├── dashboard_preview.png     # Dashboard screenshot
+└── data_model.png            # Data model relationship diagram
 ```
 
 ---
