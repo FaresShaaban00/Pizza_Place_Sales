@@ -129,6 +129,7 @@ Additional insights surfaced through the pivot tables:
 └── data_model.png            # Data model relationship diagram
 ```
 
+
 ---
 
 ## 🚀 How to Use
@@ -151,3 +152,7 @@ Additional insights surfaced through the pivot tables:
 ## 📬 Contact
 
 Feel free to reach out or open an issue if you spot something to improve.
+
+🔗 *www.linkedin.com/in/fares-shaaban-279134434*
+💼 *https://www.fiverr.com/users/fares_shaaban*
+
